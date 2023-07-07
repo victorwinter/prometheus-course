@@ -1,4 +1,4 @@
-# [Descomplicando o Prometheus](https://www.linuxtips.io/course/descomplicando-prometheus) - O Treinamento
+O Treinamento
 
 ## DAY-1
 &nbsp;
